@@ -1,9 +1,12 @@
 <div align="center" style="background: linear-gradient(to right, #1e1e2f, #232f45, #1c2331); padding: 30px 10px; border-radius: 12px; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#61dafb">Mohsin Bin Ramzan</span></h1>
+<h1 align="center">👋 Hey there, I'm <strong><code>Mohsin Bin Ramzan</code></strong></h1>
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A349A4&center=true&vCenter=true&width=600&lines=🔍+Data+Analyst+%7C+Power+BI+Developer;🤖+ML+%26+Computer+Vision+Enthusiast;📊+Database+Admin+%7C+Workflow+Automation+Fan;🚀+Lifelong+Learner+%7C+Tech+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=20&duration=2500&pause=500&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Power+BI+Developer;Machine+Learning+%7C+Computer+Vision+Fan;Automation+%7C+Open+Source+%7C+NLP+Learner" />
+
 </p>
 
 <p align="center">
