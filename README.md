@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm `Mohsin Bin Ramzan`
+# ***👋 Hey there, I'm `Mohsin Bin Ramzan`***
 
 <div align="center">
   
-  **Data Analyst | Power BI Developer | Machine Learning & Computer Vision Fan**
+  ***Data Analyst | Power BI Developer | Machine Learning & Computer Vision***
 
   ![Profile Views](https://komarev.com/ghpvc/?username=MOHSINBINRAMZAN&label=👁️%20Profile%20Views&color=61dafb&style=flat-square)
   ![Followers](https://img.shields.io/github/followers/MOHSINBINRAMZAN?label=🙌%20Followers&style=flat-square&color=A349A4)
@@ -12,26 +12,26 @@
 
 ---
 
-## 🔍 About Me
+## 🔍 ***About Me***
 
-- 💼 **Self-employed Data Analyst** | **Power BI Developer**
-- 🤖 Passionate about **Machine Learning**, **Computer Vision**, and **Database Administration**
-- 📘 Currently learning **NLP**, **Speech Processing**, and **Data Mining**
+- 💼 ***Self-employed Data Analyst*** | ***Power BI Developer***
+- 🤖 Passionate about ***Machine Learning***, ***Computer Vision***, and ***Database Administration***
+- 📘 Currently learning ***NLP***, ***Speech Processing***, and ***Data Mining***
 - ⚙️ I enjoy automating workflows and building smart, data-driven systems
 - 🧠 Always up for new challenges and learning opportunities
 
 ---
 
-## 💬 Let's Connect
+## 💬 ***Let's Connect***
 
-- 📬 Email: **mohsinramzan248@gmail.com**
+- 📬 Email: ***mohsinramzan248@gmail.com***
 - 🌐 Portfolio: [mohsinbinramzan.github.io](https://mohsinbinramzan.github.io)
 - 💼 LinkedIn: [Mohsin Bin Ramzan](https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/)
 - 🛠️ Tools I use: `Python` `Power BI` `SQL` `Jupyter` `OpenCV` `Matplotlib` `Pandas`
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 ***GitHub Stats & Languages***
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOHSINBINRAMZAN&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 ***GitHub Achievements***
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MOHSINBINRAMZAN&theme=monokai&margin-w=10&no-frame=true" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 Visitor Counter
+## 📈 ***Visitor Counter***
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MOHSINBINRAMZAN/count.svg" />
@@ -56,7 +56,7 @@
 
 ---
 
-## ✨ Fun Fact
+## ✨ ***Fun Fact***
 
 > I love simplifying complex tech, visualizing data beautifully, and turning ideas into reality — with a touch of humor whenever possible 😄
 
