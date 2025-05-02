@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/7U4iD9v.png" alt="banner" style="max-width:100%;">
+</p>
+
 <h1 align="center" style="color:#007acc">👋 Hey there, I'm <span style="color:#007acc">Mohsin Bin Ramzan</span></h1>
 
 <p align="center">
