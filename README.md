@@ -9,7 +9,7 @@ Currently diving deeper into **Natural Language Processing (NLP)**, **Speech Pro
 - 🌱 I’m currently learning advanced NLP, transformer models, and efficient data handling techniques.
 - 💬 Ask me about Python, SQL, OpenCV, or ML model deployment.
 - 🤝 I’m open to collaboration on research-based ML/CV projects or backend data workflows.
-- 📫 Reach me at: mohsinbinramzan@gmail.com
+- 📫 Reach me at: mohsinramzan248@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy simplifying complex tech concepts and making memes out of them!
 
