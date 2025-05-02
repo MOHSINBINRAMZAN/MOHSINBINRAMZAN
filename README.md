@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#007acc">Mohsin Bin Ramzan</span></h1>
+<h1 align="center" style="color:#007acc">👋 Hey there, I'm <span style="color:#007acc">Mohsin Bin Ramzan</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Power+BI+Developer;Lifelong+Learner+%7C+Tech+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=🔍+Data+Analyst+%7C+Power+BI+Developer;🤖+ML+%26+Computer+Vision+Enthusiast;📊+Database+Admin+%7C+Workflow+Automation+Fan;🚀+Lifelong+Learner+%7C+Tech+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHSINBINRAMZAN&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/MOHSINBINRAMZAN?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" />
-  <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20PK-%23f5c518" />
+  <img src="https://komarev.com/ghpvc/?username=MOHSINBINRAMZAN&label=👁️%20Profile%20Views&color=007acc&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MOHSINBINRAMZAN?label=🙌%20Followers&style=flat-square&color=9b59b6" />
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍%20Location-Rawalpindi%2C%20PK-f5c518?style=flat-square" />
 </p>
 
 ---
@@ -17,18 +17,18 @@
 
 - 💼 **Self-employed Data Analyst** | **Power BI Developer**
 - 🤖 Passionate about **Machine Learning**, **Computer Vision**, and **Database Administration**
-- 📘 Currently learning **NLP**, **Speech Processing**, and **Data Mining**
-- ⚙️ I enjoy automating workflows and building smart, data-driven systems
-- 🧠 Always up for new challenges and learning opportunities
+- 📘 Currently exploring **NLP**, **Speech Processing**, and **Data Mining**
+- ⚙️ Obsessed with automation, clean dashboards, and intelligent data systems
+- 🧠 Continuously seeking growth, creativity, and impact
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let’s Connect
 
 - 📬 Email: **mohsinramzan248@gmail.com**
 - 🌐 Portfolio: [mohsinbinramzan.github.io](https://mohsinbinramzan.github.io)
 - 💼 LinkedIn: [Mohsin Bin Ramzan](https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/)
-- 🛠️ Tools I use: `Python`, `Power BI`, `SQL`, `Jupyter`, `OpenCV`, `Matplotlib`, `Pandas`
+- 🛠️ Tools I use: `Python`, `Power BI`, `SQL`, `OpenCV`, `Jupyter`, `Matplotlib`, `Pandas`
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## ✨ Fun Fact
 
-> I love simplifying complex tech, visualizing data beautifully, and turning ideas into reality — with a touch of humor whenever possible 😄
+> I love turning complex tech into visual stories, smart tools, and the occasional meme 😄
 
 ---
 
