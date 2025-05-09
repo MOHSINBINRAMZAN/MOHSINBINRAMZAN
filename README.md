@@ -15,7 +15,7 @@
 
 ---
 
-## 🔍 ***About Me***
+##  ***About Me***
 
 - 💼 ***Self-employed Data Analyst*** | ***Power BI Developer***
 - 🤖 Passionate about ***Machine Learning***, ***Computer Vision***, and ***Database Administration***
@@ -25,7 +25,7 @@
 
 ---
 
-## 💬 ***Let's Connect***
+##  ***Let's Connect***
 
 - 📬 Email: ***mohsinramzan248@gmail.com***
 - 🌐 Portfolio: [mohsinbinramzan.github.io](https://mohsinbinramzan.github.io)
