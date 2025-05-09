@@ -1,7 +1,7 @@
 
 
 
-# ***👋 Hey there, I'm `Mohsin Bin Ramzan`***
+## ***Hey there, I'm `Mohsin Bin Ramzan***
 
 <div align="center">
   
