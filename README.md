@@ -19,7 +19,7 @@
 
 - 💼 ***Self-employed Data Analyst*** | ***Power BI Developer***
 - 🤖 Passionate about ***Machine Learning***, ***Computer Vision***, and ***Database Administration***
-- 📘 Currently learning ***NLP***, ***Speech Processing***, and ***Data Mining***
+- 📘 Currently focusing on ***NLP***
 - ⚙️ I enjoy automating workflows and building smart, data-driven systems
 - 🧠 Always up for new challenges and learning opportunities
 
@@ -30,7 +30,7 @@
 - 📬 Email: ***mohsinramzan248@gmail.com***
 - 🌐 Portfolio: [mohsinbinramzan.github.io](https://mohsinbinramzan.github.io)
 - 💼 LinkedIn: [Mohsin Bin Ramzan](https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/)
-- 🛠️ Tools I use: `Python` `Power BI` `SQL` `Jupyter` `OpenCV` `Matplotlib` `Pandas`
+- 🛠️ Tools I use: `Python` `Power BI` `SQL` `Jupyter` `OpenCV`  `Pandas`
 
 ---
 
