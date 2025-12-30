@@ -133,14 +133,6 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Python          12 hrs 45 mins  ███████████████░░░░░░   55.2%
-SQL              4 hrs 30 mins  ████░░░░░░░░░░░░░░░░░   19.5%
-Power BI         3 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░   14.1%
-JavaScript       1 hr 45 mins   █░░░░░░░░░░░░░░░░░░░░    7.6%
-Other            0 hrs 52 mins  ░░░░░░░░░░░░░░░░░░░░░    3.6%
-```
-
 <!--END_SECTION:waka-->
 
 
