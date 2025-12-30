@@ -20,31 +20,22 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
-```python
-class MohsinBinRamzan:
-    def __init__(self):
-        self.name = "Mohsin Bin Ramzan"
-        self.role = "Data Analyst & Power BI Developer"
-        self.location = "📍 Rawalpindi, Pakistan"
-        self.languages = ["Python", "SQL", "JavaScript", "R"]
-        self.current_focus = ["NLP", "Computer Vision", "Deep Learning"]
-        self.status = "Available for Freelance Projects 🚀"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing! ✨")
+## 🚀 About Me
 
-me = MohsinBinRamzan()
-me.say_hi()
-```
+**Self-employed Data Analyst** specializing in **Power BI** & **Business Intelligence**
 
-<br>
-
-- 💼 **Self-employed Data Analyst** specializing in **Power BI** & **Business Intelligence**
-- 🤖 Passionate about **Machine Learning**, **Computer Vision**, and **AI Solutions**
-- 📚 Currently mastering **Natural Language Processing (NLP)** & **Deep Learning**
+- 💼 Data Analyst & Power BI Developer
+- 📍 Rawalpindi, Pakistan
+- 🤖 Passionate about Machine Learning, Computer Vision, and AI Solutions
+- 📚 Currently mastering Natural Language Processing (NLP) & Deep Learning
 - ⚙️ Love automating workflows and building intelligent data-driven systems
 - 🎯 Always eager to learn new technologies and solve complex problems
 - 💡 Transforming raw data into actionable business insights
+- 🚀 Available for Freelance Projects
+
+**Languages:** Python, SQL, JavaScript, R  
+**Current Focus:** NLP, Computer Vision, Deep Learning
+<br>
 
 <br clear="both">
 
