@@ -115,42 +115,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=MOHSINBINRAMZAN&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⏱️ **Weekly Coding Activity**
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **Featured Projects**
-
-<a href="https://github.com/MOHSINBINRAMZAN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHSINBINRAMZAN&repo=MOHSINBINRAMZAN&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
@@ -195,21 +159,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 🐍 **Contribution Graph**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOHSINBINRAMZAN/MOHSINBINRAMZAN/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOHSINBINRAMZAN/MOHSINBINRAMZAN/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MOHSINBINRAMZAN/MOHSINBINRAMZAN/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
