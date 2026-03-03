@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-**Self-employed Data Analyst** specializing in **Power BI** & **Business Intelligence**
+**An Ai Engineer ** specializing in **Gen AI** & **data Analytics**
 
 - 💼 AI Engineer 
 - 📍 Rawalpindi, Pakistan
