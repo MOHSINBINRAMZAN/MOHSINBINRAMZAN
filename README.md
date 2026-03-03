@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-**An Ai Engineer ** specializing in **Gen AI** & **data Analytics**
+An **Ai Engineer** specializing in **Gen AI** & **data Analytics**
 
 - 💼 AI Engineer 
 - 📍 Rawalpindi, Pakistan
