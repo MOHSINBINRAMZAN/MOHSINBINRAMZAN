@@ -24,7 +24,7 @@
 
 **Self-employed Data Analyst** specializing in **Power BI** & **Business Intelligence**
 
-- 💼 Data Analyst & Power BI Developer
+- 💼 AI Engineer 
 - 📍 Rawalpindi, Pakistan
 - 🤖 Passionate about Machine Learning, Computer Vision, and AI Solutions
 - 📚 Currently mastering Natural Language Processing (NLP) & Deep Learning
