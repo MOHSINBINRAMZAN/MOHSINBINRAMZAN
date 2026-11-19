@@ -1,178 +1,89 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm **Mohsin Bin Ramzan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0D9488&height=180&section=header&text=Mohsin%20Bin%20Ramzan&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%20%7C%20%20GENERATIVE%20AI%20%20%7C%20%20DATA%20ANALYTICS&descSize=13&descAlignY=60" width="100%" alt="Mohsin Bin Ramzan — AI Engineering, Generative AI, and Data Analytics" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Data+Analyst+%7C+NLP+Developer+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Building+Data-Driven+Solutions+%F0%9F%9A%80;Turning+Data+Into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
+# Building intelligent solutions from data.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+**AI Engineer · Generative AI & Data Analytics**  
+Rawalpindi, Pakistan
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MOHSINBINRAMZAN&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/MOHSINBINRAMZAN)
-[![Followers](https://img.shields.io/github/followers/MOHSINBINRAMZAN?label=Followers&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/MOHSINBINRAMZAN?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MOHSINBINRAMZAN?label=Stars&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/MOHSINBINRAMZAN)
+I turn data into useful insights, build intelligent applications,  
+and automate workflows with Python and AI.
 
-</div>
+<p>
+  <a href="https://mohsinbinramzan.github.io"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mohsinramzan248@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohsin" /></a>
+</p>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
-
-## 🚀 About Me
-
-An **Ai Engineer** specializing in **Gen AI** & **data Analytics**
-
-- 💼 AI Engineer 
-- 📍 Rawalpindi, Pakistan
-- 🤖 Passionate about Machine Learning, Computer Vision, and AI Solutions
-- 📚 Currently mastering Natural Language Processing (NLP) & Deep Learning
-- ⚙️ Love automating workflows and building intelligent data-driven systems
-- 🎯 Always eager to learn new technologies and solve complex problems
-- 💡 Transforming raw data into actionable business insights
-- 🚀 Available for Freelance Projects
-
-**Languages:** Python, SQL, JavaScript, R  
-**Current Focus:** NLP, Computer Vision, Deep Learning
-<br>
-
-<br clear="both">
-
----
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack & Tools**
-
-</div>
-
-<div align="center">
-
-### **Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### **Data Analysis & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### **Machine Learning & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### **Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+[Explore projects](#selected-projects) · [View skills](#technical-toolkit) · [Get in touch](#lets-build-something-useful)
 
 </div>
 
 ---
 
-<div align="center">
+## About me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Statistics**
+I'm **Mohsin Bin Ramzan**, an AI engineer focused on **generative AI, machine learning, and data analytics**. My interests span natural language processing, computer vision, and the practical use of AI to solve everyday problems.
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOHSINBINRAMZAN&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHSINBINRAMZAN&theme=algolia&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="48%" />
+I enjoy connecting the full workflow: exploring data, developing models, presenting findings, and automating repetitive work.
 
-</div>
+- **Building:** AI applications, analytical dashboards, and workflow automation.
+- **Exploring:** NLP, deep learning, and computer vision.
+- **Open to:** Freelance projects and collaboration on practical AI and data solutions.
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHSINBINRAMZAN&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHSINBINRAMZAN&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true" width="48%" />
+## Areas of focus
 
-</div>
+| Area | What I work on |
+| :--- | :--- |
+| **Generative AI & NLP** | Language model applications, conversational systems, and AI-assisted content workflows. |
+| **Machine Learning & Vision** | Predictive modeling, image analysis, and recognition tasks. |
+| **Data Analytics** | Data preparation, exploratory analysis, and dashboards that communicate findings clearly. |
+| **Automation** | Python workflows that connect data, tools, and repeatable processes. |
 
+## Selected projects
 
-<div align="center">
+A selection from my public repositories, spanning generative AI, computer vision, and analytics.
 
-## 🤝 **Connect With Me**
+| Project | Overview | Focus |
+| :--- | :--- | :--- |
+| [**Automated Book Generation**](https://github.com/MOHSINBINRAMZAN/Automated-Book-Generation-System-using-AI) | AI-assisted outline and chapter generation with editorial feedback and document export. | Generative AI · Python · Automation |
+| [**LLM Fine-Tuning**](https://github.com/MOHSINBINRAMZAN/LLM-Fine-Tuning) | A repository exploring language model fine-tuning. | LLMs · NLP |
+| [**Automatic Number Plate Recognition**](https://github.com/MOHSINBINRAMZAN/ANPR-automatic-number-plate-recognition-) | Vehicle and license plate detection using YOLOv8, with EasyOCR for text recognition. | Computer Vision · Python · OCR |
+| [**Virat Kohli Score Analysis**](https://github.com/MOHSINBINRAMZAN/Virat-Kohli-Score-Analysis-Dashboard) | A dashboard project centered on cricket scoring analysis. | Data Analytics · Visualization |
 
-<a href="mailto:mohsinramzan248@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohsinramzan248@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://mohsinbinramzan.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-mohsinbinramzan.github.io-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohsin_Bin_Ramzan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/MOHSINBINRAMZAN">
-  <img src="https://img.shields.io/badge/GitHub-MOHSINBINRAMZAN-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**[Browse all repositories →](https://github.com/MOHSINBINRAMZAN?tab=repositories)**
 
-</div>
+## Technical toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, JavaScript, R |
+| **Machine Learning & AI** | PyTorch, TensorFlow, scikit-learn, Keras, OpenCV, NLTK |
+| **Data Analysis** | pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **Business Intelligence** | Power BI, Tableau, Microsoft Excel |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite, Microsoft SQL Server |
+| **Development Tools** | Git, GitHub, Docker, Jupyter, VS Code, Anaconda, Google Colab |
+
+## Let's build something useful
+
+Have an AI idea, a dataset to explore, or a workflow that needs automation? I'm open to discussing freelance projects and collaborations.
+
+**[Email me](mailto:mohsinramzan248@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mohsin-bin-ramzan-7022827271/)** · **[Visit my portfolio](https://mohsinbinramzan.github.io)**
 
 ---
 
 <div align="center">
 
-## 💭 **Random Dev Quote**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ **Fun Fact**
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-> *"I turn coffee ☕ into code, data into insights 📊, and problems into solutions 💡"*
-> 
-> **When I'm not crunching numbers, you'll find me automating everything that can be automated! 🤖**
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-### 💼 **Open for Collaborations & Freelance Projects**
-
-![Visitor Count](https://profile-counter.glitch.me/MOHSINBINRAMZAN/count.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
-**⭐️ From [MOHSINBINRAMZAN](https://github.com/MOHSINBINRAMZAN) with 💙**
-
-*Last Updated: December 30, 2024*
+<sub>Curious about the data. Thoughtful about the solution.</sub>
 
 </div>
