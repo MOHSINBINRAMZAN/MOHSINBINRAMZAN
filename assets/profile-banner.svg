@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Mohsin Bin Ramzan</title><desc id="desc">AI engineer and software developer. Building intelligence. Unlocking insights.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#665331" stop-opacity=".3"/><stop offset="1" stop-color="#0b0c0e" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="340" rx="12" fill="#0b0c0e"/><ellipse cx="990" cy="160" rx="330" ry="250" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="338" rx="12" fill="none" stroke="#dabf8b" stroke-opacity=".25"/>
+<path d="M60 65H130 M60 275H1140" stroke="#dabf8b" stroke-opacity=".5"/>
+<text x="60" y="108" fill="#dabf8b" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">AI ENGINEER · SOFTWARE DEVELOPER</text>
+<text x="56" y="185" fill="#f1ece3" font-family="Georgia,serif" font-size="64">Mohsin Bin Ramzan</text>
+<text x="60" y="231" fill="#b9b6b0" font-family="Arial,sans-serif" font-size="21" letter-spacing="1">Building intelligence. Unlocking insights.</text>
+<g transform="translate(1050 150) rotate(15) scale(2)"><g fill="#dabf8b"><path d="M0 -24 4 -5 0 -3 -4 -5Z"/><path d="M24 0 5 4 3 0 5 -4Z"/><path d="M0 24 -4 5 0 3 4 5Z"/><path d="M-24 0 -5 -4 -3 0 -5 4Z"/></g></g><g opacity=".6" transform="translate(1000 215) rotate(-10) scale(.6)"><g fill="#dabf8b"><path d="M0 -24 4 -5 0 -3 -4 -5Z"/><path d="M24 0 5 4 3 0 5 -4Z"/><path d="M0 24 -4 5 0 3 4 5Z"/><path d="M-24 0 -5 -4 -3 0 -5 4Z"/></g></g><g opacity=".3" transform="translate(960 245) scale(.3)"><g fill="#dabf8b"><path d="M0 -24 4 -5 0 -3 -4 -5Z"/><path d="M24 0 5 4 3 0 5 -4Z"/><path d="M0 24 -4 5 0 3 4 5Z"/><path d="M-24 0 -5 -4 -3 0 -5 4Z"/></g></g>
+</svg>
